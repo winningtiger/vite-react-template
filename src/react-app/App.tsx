@@ -37,7 +37,7 @@ function App() {
           onClick={() => setCount((count) => count + 1)}
           aria-label="increment"
         >
-          count is {count}
+          Count is {count}
         </button>
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
